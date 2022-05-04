@@ -1,6 +1,8 @@
 # Efficient-Time-Table
-This project is about making a suitable time table for all the sections and classes based on various factors.
+Generating a Time Table for all streams, implimented in python.
 ## An Introduction
+**Input data:** For each class we need classes per week, number of subjects, number of sections, data on number of precceding holidays.<br />
+**Output:** Gives the efficient scheduled timetable for all sections or branches.<br />
 The main objective of this project is to make an efficient time table based on factors like 
 - [x] Lecturer/Teacher avilability
 - [x] Scheduling based on preceeding holidays
