@@ -1,6 +1,7 @@
-# Efficient-Time-Table
+# Optimized TimeTable Generator
 Generating a Time Table for all streams, implimented in python.
 ## An Introduction
+TimeTable scheduling is a typical problem that appears to be a tedious job in every academic institute once or twice a year. In earlier days, time table scheduling was done manually with a single person or some group involved in task of scheduling it manually, which takes a lot of effort and time. Planning timetables is one of the most complex and error-prone applications.<br />
 **Input data:** For each class we need classes per week, number of subjects, number of sections, data on number of precceding holidays.<br />
 **Output:** Gives the efficient scheduled timetable for all sections or branches.<br />
 The main objective of this project is to make an efficient time table based on factors like 
@@ -11,14 +12,5 @@ The main objective of this project is to make an efficient time table based on f
 ## Prerequisites
 Python installed locally. Check [here](https://www.python.org/downloads/) to install depending on your OS
 
-## Activation
-1. Activate your virtual environment
-2. cd to the directory where requirements.txt is located
-3. Installing Requirements
-```bash
-pip install -r requirements.txt
-``` 
-4. Running the server
-```bash
-python manage.py runserver
-``` 
+## Usage
+The IDE like Jupyter Notebook or Google Colab can used to run the above ipynb file.
